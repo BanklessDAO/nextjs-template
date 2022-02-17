@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 import { Box, Text, Flex, Grid } from '@chakra-ui/react'
-import TodoForm from 'components/TodoForm'
+import TodoForm from '@components/TodoForm'
 
 const Home: NextPage = () => {
   return (
